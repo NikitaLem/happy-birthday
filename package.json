@@ -1,6 +1,7 @@
 {
   "name": "nebebra_happy_bithday",
   "version": "0.0.0",
+  "homepage": "https://nikitalem.github.io/happy-birthday",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
